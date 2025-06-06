@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.macuguita.mod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LightningEntityAccessor",
+    "LightningEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "guita:block/small_crystalized_redstone_bud",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "guita:block/small_crystalized_redstone_bud",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "guita:block/small_crystalized_redstone_bud",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "guita:block/small_crystalized_redstone_bud",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "guita:block/small_crystalized_redstone_bud"
+    },
+    "facing=west": {
+      "model": "guita:block/small_crystalized_redstone_bud",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

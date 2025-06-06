@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "guita:block/crystalized_redstone_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "guita:block/crystalized_redstone_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "guita:block/crystalized_redstone_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "guita:block/crystalized_redstone_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "guita:block/crystalized_redstone_cluster"
+    },
+    "facing=west": {
+      "model": "guita:block/crystalized_redstone_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

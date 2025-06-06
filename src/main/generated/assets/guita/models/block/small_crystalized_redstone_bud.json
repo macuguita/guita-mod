@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "guita:block/small_crystalized_redstone_bud"
+  }
+}

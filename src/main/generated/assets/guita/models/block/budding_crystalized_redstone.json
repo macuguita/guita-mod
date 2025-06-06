@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "guita:block/crystalized_redstone_block",
+    "side": "guita:block/budding_crystalized_redstone_side",
+    "top": "guita:block/budding_crystalized_redstone"
+  }
+}

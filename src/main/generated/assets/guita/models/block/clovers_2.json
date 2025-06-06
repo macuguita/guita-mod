@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flowerbed_2",
+  "textures": {
+    "flowerbed": "guita:block/clovers",
+    "stem": "guita:block/clovers_stem"
+  }
+}

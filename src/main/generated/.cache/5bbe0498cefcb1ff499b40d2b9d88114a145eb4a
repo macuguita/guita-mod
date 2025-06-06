@@ -1,0 +1,7 @@
+// 1.21.5	-999999999-01-01T00:00:00	Guita mod/Block Loot Tables
+dbed2330bc9f2713de3e4568b31b0c57a32c00ff data/guita/loot_table/blocks/clovers.json
+d7fe6862f73f4a84624ce43e9091719d823f8748 data/guita/loot_table/blocks/crystalized_redstone_block.json
+cd6f1be38929161f907fb93a1e50c5278c145cd5 data/guita/loot_table/blocks/crystalized_redstone_cluster.json
+dbed2330bc9f2713de3e4568b31b0c57a32c00ff data/guita/loot_table/blocks/lavender_sprouts.json
+20a89efdef0ce4dca16e28f50e8e8a4d9330184c data/guita/loot_table/blocks/medium_crystalized_redstone_bud.json
+ecfa5ac5b04df328fec96ca73195f150c91a9226 data/guita/loot_table/blocks/small_crystalized_redstone_bud.json
